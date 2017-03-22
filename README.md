@@ -1,34 +1,23 @@
-i do
+# Udacity-P2-appartment
 
-adding 3d model to ascene
+This application shows an appartment with imported 3d models wich are just modified in the size and texture to fit in the appartment. 
+There are 2 spots created in the lamp models for dining room and the AudiRs8 Model to have a realistic view.
 
-moving -scaling-rotation3d models
+## Installing
 
-deploying my Cardboard Viewer
+Phone: Copy the apk file onto your phone and run it with the google Cardboard viewer
+Unity: clone the repo and unpack the zipfile. openup the unity app and start the scene
 
-creating matrial and assign texture
+## Licenses
 
-creating anmition and trigger them
+#### project
 
-creating lights and bake them
+This project is under the MIT License
 
-aptimizing a scene for top performance
+#### 3D Models
 
+the 3D Models are downloaded from [archive3d](http://archive3d.net/) and [TF3DM](http://tf3dm.com/) - please check their licenses to reuse the models
 
-Motivation
+## Project information
 
-Action Scripts virtual reality glasses specs make moves when you look forward and look at the bottom of the stand # Installation use the script and put in unity drag and drop to GoogleVR
-
-u can install this project 1-open the zip file 2-open unity engine 3-add GoogleVR Unity SDK (v 1.0.3) 4-run the app and see
-
-Google VR SDK for Unity
-
-Enables Daydream and Cardboard app development in Unity.
-
-Copyright (c) 2016 Google Inc. All rights reserved.
-
-For updates, known issues, and upgrade instructions, see: https://developers.google.com/vr/unity/release-notes
-
-For first time users, see the Get Started Guides for Android Cardboard, Android Daydream, and iOS Cardboard.
-
-API Script FOR UNITY
+This project was created from Sebastian Gottschall and took around 16h. I had some trouble with some unity bugs (crash while compiling and game mode, some trouble with the trigger) but at least i liked the work itself. creating the appartment and see it in the VR.
